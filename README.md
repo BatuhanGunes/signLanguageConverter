@@ -1,6 +1,6 @@
 # signLanguageConverter
 sign Language Converter With Deep Learning in Computer Vision
--------------------------------------------------------------
+*************************************************************
                        EKİP ÜYELERİ
 
 201513171055 Batuhan Güneş
@@ -9,4 +9,4 @@ sign Language Converter With Deep Learning in Computer Vision
 
 201613171048 Hasan Hüseyin Öztunç
 
--------------------------------------------------------------
+*************************************************************
