@@ -2,7 +2,7 @@
 
 # İşaret Dili Çeviricisi
 
-Bu proje, bilgisayarlı görü ile derin öğrenme yöntemlerini kullanarak işaret dili bilmeyen bir insan ile işaret dili ile iletişim kuran bir insan arasındaki iletişim problemlerini ortadan kaldırmaya çalışmaktadır. İşaret dili bilmeyen kullanıcı telefonundaki bu uygulama sayesinde işaret dili ile yapılan hareketlerin anlamlarını algılayabilmektedir. Bunun için uygulama açılır ve işaret dili kullanan kişinin görüntüsü alınır. Bu görüntü üzerinde canlı olarak derin öğrenme yöntemleri ile işaretlerin anlamları çıkartılır. Bu anlamlar diğer kullanıcıya sesli veya yazılı olarak aktarılır. Aynı zamanda işaret dili sözlüğü olabilicek şekilde işaretlerin anlamları farklı bir sayfada kullanıcıya sunulmaktadır.
+Bu proje, bilgisayarlı görü ile derin öğrenme yöntemlerini kullanarak işaret dili bilmeyen bir insan ile işaret dili ile iletişim kuran bir insan arasındaki iletişim problemlerini ortadan kaldırmaya çalışmaktadır. İşaret dili bilmeyen kullanıcı telefonundaki bu uygulama sayesinde işaret dili ile yapılan hareketlerin anlamlarını algılayabilmektedir. Bunun için uygulama açılır ve işaret dili kullanan kişinin görüntüsü alınır. Bu görüntü üzerinde canlı olarak derin öğrenme yöntemleri ile işaretlerin anlamları çıkartılır. Bu anlamlar diğer kullanıcıya sesli veya yazılı olarak aktarılır. Aynı zamanda işaret dili sözlüğü olabilicek şekilde işaretlerin anlamları farklı bir sayfada kullanıcıya sunulmaktadır. Proje hakkında teknik ve ayrıntılı bilgi almak için [SingLanguageDescription](https://github.com/BatuhanGunes/signLanguageConverter/blob/master/SingLanguageDescription.pdf) sayfasını inceleyebilirsiniz.
 
 Not: Bu projede işaret dili olarak "Türk İşaret Dili"  kullanılmıştır.
 
