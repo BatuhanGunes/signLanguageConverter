@@ -4,16 +4,15 @@
 
 Bu proje, bilgisayarlı görü ile derin öğrenme yöntemlerini kullanarak işaret dili bilmeyen bir insan ile işaret dili ile iletişim kuran bir insan arasındaki iletişim problemlerini ortadan kaldırmaya çalışmaktadır. İşaret dili bilmeyen kullanıcı telefonundaki bu uygulama sayesinde işaret dili ile yapılan hareketlerin anlamlarını algılayabilmektedir. Bunun için uygulama açılır ve işaret dili kullanan kişinin görüntüsü alınır. Bu görüntü üzerinde canlı olarak derin öğrenme yöntemleri ile işaretlerin anlamları çıkartılır. Bu anlamlar diğer kullanıcıya sesli veya yazılı olarak aktarılır. Aynı zamanda işaret dili sözlüğü olabilicek şekilde işaretlerin anlamları farklı bir sayfada kullanıcıya sunulmaktadır.
 
+Not: Bu projede işaret dili olarak "Türk İşaret Dili"  kullanılmıştır.
+
 ```
 Projenin oluşturulma tarihi : Ekim 2019
 ```
 
 ## Ekran Görüntüleri
 
-<img align="center" width="250" height="450" src="https://github.com/BatuhanGunes/signLanguageConverter/blob/master/Screenshots/Screen%20Shot%202019-11-10%20at%2000.28.28.png"> <img align="center" width="250" height="450" src="https://github.com/BatuhanGunes/signLanguageConverter/blob/master/Screenshots/Screen%20Shot%202019-11-10%20at%2000.21.16.png"> <img align="center" width="250" height="450" src="https://github.com/BatuhanGunes/signLanguageConverter/blob/master/Screenshots/Screen%20Shot%202019-11-10%20at%2000.21.57.png"> 
-
-<img align="center" width="250" height="450" src="https://github.com/BatuhanGunes/signLanguageConverter/blob/master/Screenshots/Screen%20Shot%202019-11-10%20at%2000.22.11.png"> <img align="center" width="400" height="450" src="https://github.com/BatuhanGunes/signLanguageConverter/blob/master/Screenshots/Screen%20Shot%202019-11-10%20at%2000.20.42.png"> 
-
+<img align="center" width="200" height="375" src="https://github.com/BatuhanGunes/signLanguageConverter/blob/master/Screenshots/Screen%20Shot%202019-11-10%20at%2000.28.28.png"> <img align="center" width="200" height="375" src="https://github.com/BatuhanGunes/signLanguageConverter/blob/master/Screenshots/Screen%20Shot%202019-11-10%20at%2000.21.16.png"> <img align="center" width="200" height="375" src="https://github.com/BatuhanGunes/signLanguageConverter/blob/master/Screenshots/Screen%20Shot%202019-11-10%20at%2000.21.57.png"> <img align="center" width="200" height="375" src="https://github.com/BatuhanGunes/signLanguageConverter/blob/master/Screenshots/Screen%20Shot%202019-11-10%20at%2000.22.11.png"> 
 
 ## Başlangıç
 
